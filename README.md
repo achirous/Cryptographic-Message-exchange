@@ -16,4 +16,3 @@ INSTRUCTIONS
 NOTES
 --------------------
 1)When you run it on cmd the encodedPuzzles.txt doesn't write the puzzles on seperate lines. So it's better to use eclispse.
-2)When printed as strings the plaintext puzzles seem to start with A's instead of 0's though they are still recognized as zero bytes.
